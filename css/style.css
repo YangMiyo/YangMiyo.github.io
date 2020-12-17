@@ -881,6 +881,9 @@ hr {
   display: flex;
   justify-content: space-around;
 }
+.pageimg.all img {
+  width: 100%;
+}
 .pagedate {
   font-size: 14px;
   text-align: center;
